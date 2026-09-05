@@ -13,7 +13,7 @@
 }
 \value{
 \item{call}{function call}
-\item{fis.ci}{Bootstrap ci of Fis per population, with population identifiers
+\item{fis.ci}{Bootstrap ci of Fis per population}
 as row names. Single-population input is supported for numeric, character,
 and factor identifiers.}
 }
